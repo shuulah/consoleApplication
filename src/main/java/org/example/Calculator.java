@@ -88,7 +88,7 @@ public class Calculator {
                      System.out.println("result: " + div(input, input2));
                      break;
              }
-
+//
         }
         scanner.close();
 
